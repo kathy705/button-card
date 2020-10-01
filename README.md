@@ -765,16 +765,6 @@ button_card_templates:
       card:
         - padding: 5px 15px
         - background-color: var(--paper-item-icon-active-color)
-      name:
-        - text-transform: uppercase
-        - color: var(--primary-background-color)
-        - justify-self: start
-        - font-weight: bold
-      label:
-        - text-transform: uppercase
-        - color: var(--primary-background-color)
-        - justify-self: start
-        - font-weight: bold
 
   header_red:
     template: header
